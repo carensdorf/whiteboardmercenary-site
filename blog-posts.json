@@ -1,0 +1,186 @@
+{
+  "posts": [
+    {
+      "id": "amazon-70k-hires-annually",
+      "title": "How Amazon Hires 70,000 Engineers a Year Without Compromising Quality, and What Your Team Can Learn From It",
+      "date": "2025-06-09",
+      "author": "Chris Arensdorf",
+      "category": "Interviewing Strategy",
+      "image": "assets/blog-images/amazon-hiring-blog-image.png",
+      "thumbnail": "assets/blog-images/amazon-hiring-blog-image.png",
+      "excerpt": "When most companies struggle to align a 5-person interview panel, Amazon manages to hire tens of thousands of engineers per year without compromising its famously high hiring bar...",
+      "content": {
+        "sections": [
+          {
+            "type": "paragraph",
+            "content": "When most companies struggle to align a 5-person interview panel, Amazon manages to hire tens of thousands of engineers per year without compromising its famously high hiring bar. According to public data, Amazon hired over 70,000 tech employees in 2021 alone during its peak growth period. This scale is staggering. But what's even more remarkable is that the quality of those hires hasn't diluted with volume."
+          },
+          {
+            "type": "paragraph",
+            "content": "So how do they do it?"
+          },
+          {
+            "type": "paragraph",
+            "content": "It's not magic. It's not even about having more recruiters or better candidates."
+          },
+          {
+            "type": "paragraph",
+            "content": "Amazon treats hiring like a system, not a feeling or vibe."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "What the \"Hiring Bar\" Actually Means"
+          },
+          {
+            "type": "paragraph",
+            "content": "At Amazon, the \"hiring bar\" isn't a metaphor. It's a specific, actionable standard: a new hire must be better than 50% of all other Amazonians in the same job family and level across the company. This concept is embedded in the structure of every loop, and enforced through a role called the Bar Raiser. A Bar Raiser is an experienced interviewer responsible for maintaining hiring quality and consistency across teams."
+          },
+          {
+            "type": "paragraph",
+            "content": "The key takeaway? It's not about being smart. It's about being systematic."
+          },
+          {
+            "type": "paragraph",
+            "content": "Every Amazon interview loop includes:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Defined competencies based on the role",
+              "Structured prebriefs to align interviewers before the loop",
+              "Written rubrics to evaluate data",
+              "Debriefs that emphasize evidence-based decisions"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "Even the questions are scoped to ensure every interviewer is collecting unique, actionable data relative to the job and level."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "What Makes a Strong Technical Hire?"
+          },
+          {
+            "type": "paragraph",
+            "content": "At Amazon, every hiring decision starts with clarity: each job family and level maps to a defined set of competencies, both technical and behavioral, that are most critical for success. These are rooted in Amazon's Leadership Principles, and they vary by role seniority."
+          },
+          {
+            "type": "paragraph",
+            "content": "For technical competencies, the evaluation is straightforward:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Is the code correct and efficient?",
+              "Is it readable and maintainable?",
+              "Can the candidate solve problems thoughtfully under constraints?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "But great engineers aren't hired on code alone. For example, entry-level engineers are expected to be curious, resourceful, and able to dive deep into unfamiliar problems quickly. They should show good judgment and deliver reliably. In contrast, senior engineers are evaluated on different signals: system-level thinking, mentorship, strategic judgment, and the ability to respectfully challenge decisions."
+          },
+          {
+            "type": "paragraph",
+            "content": "Amazon builds interview loops that align to these expectations by targeting specific competencies with scoped questions to elicit meaningful, example-based evidence. By focusing on what matters most for a given role and level, they gather the right data to answer the only question that matters: does this candidate raise the bar for this job role and level?"
+          },
+          {
+            "type": "paragraph",
+            "content": "When you take this kind of structured, role-specific view of what makes a strong hire, you can measure it."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "Why Most Teams Can't Just \"Copy Amazon\""
+          },
+          {
+            "type": "paragraph",
+            "content": "When smaller engineering teams try to replicate Amazon's process, they usually run into these problems:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "No clearly defined competencies or rubrics",
+              "Interviewers doing unstructured, overlapping evaluations",
+              "Debriefs dominated by gut feel, not data",
+              "Inconsistent feedback formats and low accountability",
+              "No training for interviewers"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "The result? Inconsistent hiring decisions, poor candidate experiences, and eventually... bad hires."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "What You Need Instead: An Autonomous Interview System"
+          },
+          {
+            "type": "paragraph",
+            "content": "This is where most teams give up. But you don't need Amazon's size or internal machinery to get Amazon-level rigor. You just need an autonomous interview system your leadership team can trust will grow your teams without constant attention."
+          },
+          {
+            "type": "paragraph",
+            "content": "An autonomous interview system is a reusable framework for:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Designing structured interview loops",
+              "Defining and aligning on evaluation rubrics",
+              "Training interviewers to collect clean, consistent signal",
+              "Capturing interview data for transparent decision-making"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": "It doesn't replace your ATS (like Greenhouse, Lever, or Workday). Instead, it enhances it."
+          },
+          {
+            "type": "paragraph",
+            "content": "And once it's built, it scales."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "Who Needs This"
+          },
+          {
+            "type": "paragraph",
+            "content": "If your team is hiring more than 5 engineers per year, relying on gut feel and ad hoc processes is already costing you."
+          },
+          {
+            "type": "paragraph",
+            "content": "If you've ever skipped a debrief because \"everyone seemed aligned,\" or hired someone who looked great on paper but flamed out quickly, you're seeing the cracks."
+          },
+          {
+            "type": "paragraph",
+            "content": "Technical interviewing isn't a mystery. It's not art. It's a data-driven system."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "Build It Once. Reuse It Forever."
+          },
+          {
+            "type": "paragraph",
+            "content": "At Whiteboard Mercenary, I help engineering teams build autonomous technical interview systems modeled after what works at companies like Amazon and Google without needing a full-time Bar Raiser or in-house hiring team to run it."
+          },
+          {
+            "type": "paragraph",
+            "content": "If you're ready to stop improvising and start hiring with precision, let's talk."
+          },
+          {
+            "type": "cta",
+            "content": "👉 Schedule a free technical interview process audit here",
+            "link": "https://calendly.com/carensdorf/"
+          }
+        ]
+      },
+      "tags": ["Amazon", "Hiring", "Engineering", "Scale", "Technical Interview", "Bar Raiser"]
+    }
+  ]
+} 
