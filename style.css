@@ -419,7 +419,7 @@ ul {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 120px 0px 240px 0px;
+  padding: 120px 0px 120px 0px;
 }
 .bg30 {
   background-image: url(assets/images/bg/counter-bg13.jpg);
@@ -4693,7 +4693,6 @@ input[type=range]::-ms-fill-upper {
   padding: 10px 22px;
   border-radius: 3px;
   color: #fff;
-  text-transform: uppercase;
 }
 .full-width-header.header-style2.modify3 .rs-header .menu-area .expand-btn-inner ul .quote-btn a:hover {
   opacity: .7;
@@ -9359,7 +9358,6 @@ body .modal-backdrop {
   color: #363636;
 }
 .rs-counter.style3 .bg-overlay {
-  margin-top: -175px;
   z-index: 111;
 }
 .rs-counter.style3 .bg-overlay .counter-part {
@@ -13159,9 +13157,9 @@ body .modal-backdrop {
   font-weight: 400;
 }
 .rs-pricing.style5 .pricing-table .pricing-table-body li i {
-  float: right;
   margin-right: 0;
   color: #1273EB;
+  padding-right: 10px;
 }
 .rs-pricing.style5 .pricing-table .pricing-table-body li i.new {
   font-size: 22px;
