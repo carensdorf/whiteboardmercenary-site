@@ -12,12 +12,26 @@ async function loadBlogPost() {
         
         // Get post ID from URL
         const postId = window.location.pathname.split('/').pop().replace('.html', '');
-        const post = data.posts.find(p => p.id === postId);
+        console.log('Looking for post with ID:', postId);
+        console.log('Available posts:', data.posts.map(p => p.id));
+        
+        // Try to find the post by ID
+        let post = data.posts.find(p => p.id === postId);
+        
+        // If not found, try to match by filename pattern
+        if (!post) {
+            console.log('Post not found by exact ID, trying pattern matching...');
+            // Handle the case where filename is longer than the ID
+            post = data.posts.find(p => postId.includes(p.id) || p.id.includes(postId));
+        }
         
         if (!post) {
-            console.error('Post not found');
+            console.error('Post not found for ID:', postId);
+            console.log('Available post IDs:', data.posts.map(p => p.id));
             return;
         }
+
+        console.log('Found post:', post.title);
 
         // Update meta tags
         document.title = `${post.title} | Whiteboard Mercenary`;
@@ -76,6 +90,7 @@ async function loadBlogPost() {
         });
         
         contentContainer.innerHTML = contentHTML;
+        console.log('Blog post loaded successfully');
     } catch (error) {
         console.error('Error loading blog post:', error);
     }
@@ -133,10 +148,14 @@ async function loadBlogList() {
         }
         
         console.log('Found blog list container, loading posts...');
+        
+        // Sort posts by date (most recent first)
+        const sortedPosts = data.posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+        
         let postsHTML = '';
         
-        data.posts.forEach((post, index) => {
-            const isLast = index === data.posts.length - 1;
+        sortedPosts.forEach((post, index) => {
+            const isLast = index === sortedPosts.length - 1;
             postsHTML += `
                 <div class="blog-wrap shadow ${isLast ? '' : 'mb-70 xs-mb-50'}">
                     <div class="image-part">

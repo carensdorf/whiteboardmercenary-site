@@ -175,12 +175,190 @@
           },
           {
             "type": "cta",
-            "content": "👉 Schedule a free technical interview process audit here",
+            "content": "👉 Schedule a free technical interview process review here",
             "link": "https://calendly.com/carensdorf/"
           }
         ]
       },
       "tags": ["Amazon", "Hiring", "Engineering", "Scale", "Technical Interview", "Bar Raiser"]
+    },
+    {
+      "id": "what-i-learned-interviewing-300-engineers-during-my-time-at-amazon",
+      "title": "What I Learned Interviewing 300+ Engineers During My Time at Amazon",
+      "date": "2025-07-10",
+      "author": "Chris Arensdorf",
+      "category": "Hiring Strategy",
+      "image": "assets/blog-images/Blog-7-10-25.png",
+      "thumbnail": "assets/blog-images/Blog-7-10-25.png",
+      "excerpt": "I spent over eight years at Amazon, leading engineering teams across AWS and Amazon Robotics. But one of the most formative parts of my career wasn't building software. It was hiring. As a Bar Raiser, I personally conducted more than 300 technical interviews and sat in on hundreds more.",
+      "content": {
+        "sections": [
+          {
+            "type": "paragraph",
+            "content": "I spent over eight years at Amazon, leading engineering teams across AWS and Amazon Robotics. But one of the most formative parts of my career wasn't building software. It was hiring."
+          },
+          {
+            "type": "paragraph",
+            "content": "As a Bar Raiser, I personally conducted more than 300 technical interviews and sat in on hundreds more. I helped teams across the company make high-stakes hiring decisions with consistency and clarity."
+          },
+          {
+            "type": "paragraph",
+            "content": "Amazon doesn't treat hiring like guesswork. It runs on structure, data, and discipline."
+          },
+          {
+            "type": "paragraph",
+            "content": "In this post, I'll share the biggest lessons I took from that experience and how you can apply them to build a high-confidence, high-velocity hiring process on your own team."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "A Good Tech Screen Is a Diagnostic, Not a Gate"
+          },
+          {
+            "type": "paragraph",
+            "content": "Yes, technical phone screens and take-home assignments help filter out unqualified candidates. But they also serve a deeper purpose."
+          },
+          {
+            "type": "paragraph",
+            "content": "These early assessments surface potential gaps that the on-site panel can dig into. They guide what to explore further, not just who to reject."
+          },
+          {
+            "type": "paragraph",
+            "content": "Example: I once screened a front-end candidate who built a working component but used inefficient algorithms to manage complex state. That wasn't a red flag by itself."
+          },
+          {
+            "type": "paragraph",
+            "content": "During our on-site prebrief, we flagged that signal and planned an interview focused on data structures and algorithms. The candidate ended up doing well and received an offer."
+          },
+          {
+            "type": "paragraph",
+            "content": "If we had relied solely on the tech screen, we might have missed out on a strong hire."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "Untrained Interviewers Miss Data"
+          },
+          {
+            "type": "paragraph",
+            "content": "When a candidate doesn't provide strong evidence for a competency like \"Earn Trust,\" we treat that as a lack of data."
+          },
+          {
+            "type": "paragraph",
+            "content": "But often, the real issue is with the interviewer."
+          },
+          {
+            "type": "paragraph",
+            "content": "Inexperienced interviewers don't always know how to dig deeper. They may not ask the right follow-up questions to uncover what the candidate actually owned, what actions they took, or what impact they had."
+          },
+          {
+            "type": "paragraph",
+            "content": "That gap can lead to missed hires."
+          },
+          {
+            "type": "paragraph",
+            "content": "Example: Let's say a candidate shares a story about getting critical feedback from a peer, but skips details like the peer's role, the context, or what they did to respond to the feedback."
+          },
+          {
+            "type": "paragraph",
+            "content": "If the interviewer doesn't probe, they walk away with a surface-level story and limited signal. The responsibility to extract meaningful data lies with the interviewer, not the candidate."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "Know What Can Be Taught (and What Can't)"
+          },
+          {
+            "type": "paragraph",
+            "content": "Some competencies can be coached. Others are wired into how someone behaves, especially under stress."
+          },
+          {
+            "type": "paragraph",
+            "content": "Ownership is a good example of something that can't really be taught. You either take responsibility at 2 a.m. when your code breaks prod, or you don't."
+          },
+          {
+            "type": "paragraph",
+            "content": "Deliver Results, on the other hand, can be developed. With the right structure, accountability, and support, a motivated person can get better at follow-through."
+          },
+          {
+            "type": "paragraph",
+            "content": "Knowing the difference matters."
+          },
+          {
+            "type": "paragraph",
+            "content": "If a candidate has gaps in coachable areas and is close to the bar, it may be worth making a plan to close those gaps through onboarding and mentorship. But if they fall short in deeply ingrained traits like Ownership, the risk is much higher."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "Synchronous Debriefs Are Where Decisions Happen"
+          },
+          {
+            "type": "paragraph",
+            "content": "Each interview is one slice of a much bigger picture. The debrief is where the panel brings all those slices together."
+          },
+          {
+            "type": "paragraph",
+            "content": "This isn't just a vote. It's a structured conversation where you compare signals, calibrate levels, ask clarifying questions, and build consensus."
+          },
+          {
+            "type": "paragraph",
+            "content": "A great debrief is run like a well-moderated discussion. Everyone contributes. The conversation stays focused. Concerns get addressed and the group lands on a confident decision."
+          },
+          {
+            "type": "paragraph",
+            "content": "That's where hiring actually happens."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "You Can't Evaluate Quality Without Understanding Scope"
+          },
+          {
+            "type": "paragraph",
+            "content": "STAR responses are helpful… but only if you can place the candidate's scope in context."
+          },
+          {
+            "type": "paragraph",
+            "content": "Example: If a candidate talks about releasing a bug into production, a junior engineer might reflect on their personal learning. That's fine."
+          },
+          {
+            "type": "paragraph",
+            "content": "A senior engineer should be thinking in terms of process, architecture, and organizational guardrails. Same story, different expectations."
+          },
+          {
+            "type": "paragraph",
+            "content": "Without probing for scope, it's easy to mistake a mid-level signal for a senior-level one. If the interview loop notices a consistent mismatch, the panel might consider down-leveling. But you need that context first."
+          },
+          {
+            "type": "paragraph",
+            "content": "Scope tells you whether a candidate is ready for the job you're hiring them to do."
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "content": "Final Thought"
+          },
+          {
+            "type": "paragraph",
+            "content": "Hiring well isn't just about gut feel or credentials on paper. It's about building a system that produces consistent, evidence-based decisions—no matter who's interviewing or how fast you're hiring."
+          },
+          {
+            "type": "paragraph",
+            "content": "If your team is struggling with interviewer consistency, unclear bar definitions, or hiring decisions that feel rushed or misaligned, it's time to bring structure into the process."
+          },
+          {
+            "type": "paragraph",
+            "content": "I help engineering teams build repeatable, high-confidence hiring systems that scale. If you're ready to stop guessing and start hiring with clarity, let's talk."
+          },
+          {
+            "type": "cta",
+            "content": "👉 Schedule a free technical interview process review here",
+            "link": "https://calendly.com/carensdorf/"
+          }
+        ]
+      },
+      "tags": ["Amazon", "Hiring", "Engineering", "Technical Interview", "Bar Raiser", "Interview Process"]
     }
   ]
 } 
