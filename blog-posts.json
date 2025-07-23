@@ -359,6 +359,58 @@
         ]
       },
       "tags": ["Amazon", "Hiring", "Engineering", "Technical Interview", "Bar Raiser", "Interview Process"]
+    },
+    {
+      "id": "the-hidden-costs-of-hiring-in-tech",
+      "title": "The Hidden Costs of Hiring in Tech",
+      "date": "2025-07-23",
+      "author": "Chris Arensdorf",
+      "category": "Hiring Strategy",
+      "image": "assets/blog-images/BlogImage-7-23-2025.png",
+      "thumbnail": "assets/blog-images/BlogImage-7-23-2025.png",
+      "excerpt": "Most engineering leaders know that hiring is hard. What they don't always realize is how expensive it really is even when you get it right. Between lost engineering time, poor calibration, misfires in hiring decisions, and the lingering effects of a bad hire, the true cost of hiring often goes unnoticed and untracked.",
+      "content": {
+        "sections": [
+          { "type": "paragraph", "content": "Most engineering leaders know that hiring is hard. What they don't always realize is how expensive it really is even when you get it right." },
+          { "type": "paragraph", "content": "Between lost engineering time, poor calibration, misfires in hiring decisions, and the lingering effects of a bad hire, the true cost of hiring often goes unnoticed and untracked. And when your interview loop lacks structure, those costs multiply fast." },
+          { "type": "paragraph", "content": "Let's break down what's really going on under the hood, and how to fix it." },
+          { "type": "heading", "level": 2, "content": "The Real Cost Per On-Site Interview" },
+          { "type": "paragraph", "content": "Every time you bring a candidate onsite, you're investing more than just a few hours. You're consuming valuable team time that could have been spent building product, debugging customer issues, or mentoring junior engineers." },
+          { "type": "paragraph", "content": "A typical on-site loop might involve four engineers, each spending:" },
+          { "type": "list", "items": [
+            "1 hour preparing",
+            "1 hour interviewing",
+            "1 hour in a debrief"
+          ]},
+          { "type": "paragraph", "content": "That's 12 total hours of engineer time for one candidate. At a fully loaded cost of $100 to $150/hour, you're spending $1,200 to $1,800 per on-site candidate, minimum. And that doesn't include recruiter time, ATS costs, or opportunity costs." },
+          { "type": "paragraph", "content": "Multiply that by 10–15 candidates per month and you're burning $15K–$25K/month just getting data. And if that data is noisy because your loop isn't calibrated or consistent, that's money down the drain." },
+          { "type": "paragraph", "content": "When you run interviews without clear ownership of questions, without rubrics, or without a plan to probe for specific competencies, you're not just wasting time, you're gathering unreliable data that leads to bad decisions." },
+          { "type": "heading", "level": 2, "content": "The Annual Cost of a Bad Hire" },
+          { "type": "paragraph", "content": "Now let's say the loop fails in a different way. You make a hire. Six months later, you regret it." },
+          { "type": "paragraph", "content": "A bad hire in engineering isn't just someone who doesn't deliver. It's someone who slows the team down, lowers the quality bar, creates rework, and eventually exits. Your bad hire is taking your time, energy, and confidence with them." },
+          { "type": "paragraph", "content": "According to SHRM, a bad hire can cost 30% or more of that employee's annual salary. For an engineer making $160K, that's a $50K hit. This is likely higher once you factor in the cost to rehire, retrain, and recover." },
+          { "type": "paragraph", "content": "But the worst cost? The opportunity loss. That position could have gone to someone who would have leveled up your team, delivered features, or mentored others. Instead, you stalled." },
+          { "type": "paragraph", "content": "Most bad hires happen because the process lacked rigor. The panel didn't dig deep. The decision was rushed. The interview questions weren't tied to the actual competencies needed for the role. Or worse, no one actually owned the decision. \"Let's just see how they do\" is not a hiring strategy. It's a very expensive gamble." },
+          { "type": "heading", "level": 2, "content": "Set Your Team Up for Success, Starting With the Interview" },
+          { "type": "paragraph", "content": "Your interview loop is your first product. It's your candidate experience, your evaluation framework, and your internal hiring engine, all rolled into one." },
+          { "type": "paragraph", "content": "If your interviews are inconsistent, poorly scoped, or run by untrained interviewers, you're sending bad signals to candidates and collecting bad signals from them. A vague process leads to vague outcomes. That's not how you build high-performing teams." },
+          { "type": "paragraph", "content": "A structured interview loop solves this." },
+          { "type": "list", "items": [
+            "You know who's testing what.",
+            "You define competencies ahead of time.",
+            "You train your interviewers to dig for data not just \"vibes\".",
+            "And you align your decision process so that everyone understands how to calibrate across levels and roles."
+          ]},
+          { "type": "paragraph", "content": "It also makes onboarding easier, improves internal trust in hiring, and gives new hires a better shot at succeeding because you actually hired for what matters." },
+          { "type": "paragraph", "content": "It's not just about finding someone who can write code. It's about hiring someone who can thrive in your environment, with your expectations, and your customers. That starts before the offer. It starts at the first conversation." },
+          { "type": "heading", "level": 2, "content": "Closing: Make Every Hire Count" },
+          { "type": "paragraph", "content": "Hiring in tech is expensive. The problem is most teams don't realize how much they're losing, not just in money, but in time, morale, and momentum." },
+          { "type": "paragraph", "content": "At Whiteboard Mercenary, I help engineering teams stop guessing. I help you build a hiring process that collects better data, leads to better decisions, and supports the long-term success of your team." },
+          { "type": "paragraph", "content": "If your hiring loop feels inconsistent, unclear, or just plain broken, let's fix it at the root." },
+          { "type": "cta", "content": "Request Demo", "link": "/demo.html" }
+        ]
+      },
+      "tags": ["Hiring", "Tech", "Recruiting", "Retention", "Engineering", "Costs"]
     }
   ]
 } 
